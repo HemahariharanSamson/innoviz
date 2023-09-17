@@ -2146,6 +2146,7 @@ ul.tabs-nav .tab-nav.active {
 
 .footer-logo img {
     max-width: 100%;
+    border-radius: 10%;
 }
 
 .footer-navigation ul,
